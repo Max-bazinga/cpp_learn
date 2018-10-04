@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cpp_learn.dir/lesson1.cpp.o CMakeFiles/cpp_learn.dir/1-8/1-8.cpp.o  -o cpp_learn 
